@@ -67,3 +67,4 @@ typeMessage()
 
 drawHeart()
 
+turtle.Screen().exitonclick()
